@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: https://www.jakobthe.dev/
 title: Jakob Pennington 
 theme: "PaperMod"
 languageCode: en-us
@@ -8,7 +8,9 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-# googleAnalytics: UA-123-45
+googleAnalytics: G-29MNLJYDQX
+
+disqusShortname: JakobTheDev
 
 minify:
   disableXML: true
@@ -35,45 +37,40 @@ params:
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
-  comments: false
+  comments: true
   hidemeta: false
   hideSummary: false
   showtoc: true
-  tocopen: true
+  tocopen: false
 
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    favicon: "images/favicon.ico"
+    favicon16x16: "images/favicon-16x16.png"
+    favicon32x32: "images/favicon-32x32.png"
+    apple_touch_icon: "images/apple-touch-icon.png"
+    safari_pinned_tab: "images/apple-touch-icon.png"
 
   label:
     text: "Home"
-    icon: /apple-touch-icon.png
+    # icon: /images/favicon-32x32.png
     iconHeight: 35
 
   # profile-mode
   profileMode:
     enabled: true
     title: Jakob Pennington
-    subtitle: "AppSec Guy"
-    imageUrl: ""
-    imageWidth: 120
-    imageHeight: 120
+    subtitle: "JakobTheDev"
+    imageUrl: "images/profile.png"
+    imageWidth: 240
+    imageHeight: 240
     imageTitle: my image
     buttons:
       - name: Posts
         url: posts
-      - name: Tags
-        url: tags
-
-  # home-info mode
-  homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+      # - name: Tags
+      #   url: tags
 
   socialIcons:
     - name: mastodon
@@ -82,14 +79,12 @@ params:
       url: "https://twitter.com/@JakobTheDev"
     - name: github
       url: "https://github.com/JakobTheDev"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/jakobpennington/"
 
   analytics:
     google:
-      SiteVerificationTag: "XYZabc"
-    bing:
-      SiteVerificationTag: "XYZabc"
-    yandex:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: "G-29MNLJYDQX"
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -97,9 +92,9 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+    URL: "https://github.com/JakobTheDev/website/content"
+    Text: "Suggest Changes"
+    appendFilePath: true
 
   # for search
   # https://fusejs.io/api/options.html
@@ -113,6 +108,10 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
+    - identifier: about
+      name: About Me
+      url: /posts/about-me
+      weight: 10
     - identifier: posts
       name: Posts
       url: /posts/
@@ -120,15 +119,12 @@ menu:
     - identifier: categories
       name: Categories
       url: /categories/
-      weight: 10
+      weight: 20
     - identifier: tags
       name: Tags
       url: /tags/
-      weight: 20
-    # - identifier: example
-    #   name: example.org
-    #   url: https://example.org
-    #   weight: 30
+      weight: 30
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
