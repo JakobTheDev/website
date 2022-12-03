@@ -5,6 +5,7 @@ date: 2022-11-26T15:45:00+10:30
 draft: false
 categories:
 - All
+- Personal
 tags:
 - General
 comments: false
@@ -14,7 +15,7 @@ cover:
   image: "images/banner-ddd.jpg"
   alt: "Jakob Pennington standing in front of an audience, giving a presentation on DevSecOps at the DDD Adelaide conference."
   alt: "Jakob Pennington standing in front of an audience, giving a presentation on DevSecOps at the DDD Adelaide conference."
-  relative: true # To use relative path for cover image, used in hugo Page-bundles
+  relative: true
 ---
 
 > G'day, I'm Jakob Pennington, and I help development teams build secure software.
