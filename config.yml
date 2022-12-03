@@ -1,5 +1,5 @@
 baseURL: https://www.jakobthe.dev/
-title: Jakob Pennington 
+title: JakobTheDev | Jakob Pennington 
 theme: "PaperMod"
 languageCode: en-us
 
@@ -18,11 +18,10 @@ minify:
 
 params:
   env: production
-  title: Jakob Pennington
-  description: "Jakob Pennington's blog"
-  keywords: [Blog, AppSec]
+  title: JakobTheDev
+  description: JakobTheDev
   author: Jakob Pennington
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  # images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "2 January 2006"
   defaultTheme: dark
   disableThemeToggle: false
@@ -60,17 +59,17 @@ params:
   # profile-mode
   profileMode:
     enabled: true
-    title: Jakob Pennington
-    subtitle: "JakobTheDev"
+    title: JakobTheDev
+    subtitle: Hacking | AppSec | Software Development
     imageUrl: "images/profile.png"
     imageWidth: 240
     imageHeight: 240
-    imageTitle: my image
+    imageTitle: Test
     buttons:
-      - name: Posts
-        url: posts
-      # - name: Tags
-      #   url: tags
+      - name: About
+        url: posts/about
+      # - name: Intro
+      #   url: posts/introduction
 
   socialIcons:
     - name: mastodon
@@ -87,9 +86,9 @@ params:
       SiteVerificationTag: "G-29MNLJYDQX"
 
   cover:
-    hidden: true # hide everywhere but not in structured data
-    hiddenInList: true # hide on list pages and home
-    hiddenInSingle: true # hide on single page
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
 
   editPost:
     URL: "https://github.com/JakobTheDev/website/content"
@@ -109,8 +108,8 @@ params:
 menu:
   main:
     - identifier: about
-      name: About Me
-      url: /posts/about-me
+      name: About
+      url: /posts/about
       weight: 10
     - identifier: posts
       name: Posts
