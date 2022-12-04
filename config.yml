@@ -19,9 +19,9 @@ minify:
 params:
   env: production
   title: JakobTheDev
-  description: JakobTheDev
+  description: G'day, I'm Jakob Pennington, and I help development teams build secure software.
   author: Jakob Pennington
-  # images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["/images/profile.png"]
   DateFormat: "2 January 2006"
   defaultTheme: dark
   disableThemeToggle: false
@@ -67,9 +67,9 @@ params:
     imageTitle: Test
     buttons:
       - name: About
-        url: posts/about
-      # - name: Intro
-      #   url: posts/introduction
+        url: about
+      - name: Blog
+        url: posts
 
   socialIcons:
     - name: mastodon
@@ -89,6 +89,8 @@ params:
     hidden: false # hide everywhere but not in structured data
     hiddenInList: false # hide on list pages and home
     hiddenInSingle: false # hide on single page
+    responsiveImages: true
+    linkFullImages: true
 
   editPost:
     URL: "https://github.com/JakobTheDev/website/content"
@@ -109,10 +111,10 @@ menu:
   main:
     - identifier: about
       name: About
-      url: /posts/about
+      url: about
       weight: 10
-    - identifier: posts
-      name: Posts
+    - identifier: blog
+      name: Blog
       url: /posts/
       weight: 10
     - identifier: categories
