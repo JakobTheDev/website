@@ -34,7 +34,7 @@ So, almost out of necessity, I use two OSes to do my work. I have two horses to 
 
 The issue arises when worlds collide, and I want to write _code_ to help with penetration testing or bug bounty hunting. I often write scripts that rely on tooling available on Linux, but that means I need to write those scripts within a VM or using a terminal text editor rather than my favourite IDE.
 
-### Introducing Remote Development for VS Code
+## Introducing Remote Development for VS Code
 
 My IDE of choice for most programming and scripting languages is Visual Studio Code. Last year, VS Code introduced a new feature called [Remote Development](https://code.visualstudio.com/docs/remote/remote-overview) which completely changed how I write my tooling.
 
@@ -74,13 +74,13 @@ Let’s override the Dockerfile with one that uses the Kali as the base image. R
 
 Using VS Code and Remote Development, we have created a seamless workflow to write tooling that is designed to be run in our Kali penetration testing environment, all from a Windows host.
 
-### Try it yourself
+## Try it yourself
 
 If you would like to try this out yourself or copy the demo config as a starting point, you can find the source code on GitHub.
 
 [https://github.com/JakobTheDev/vs-code-remote-dev-demo](https://github.com/JakobTheDev/vs-code-remote-dev-demo)
 
-### Bonus round
+## Bonus round
 
 As I have [written about in the past](../docker-for-pentesters), I have migrated to using Docker containers as the basis for my penetration testing and bug bounty hunting environments. The way I use Remote Development to build my tooling is:
 
