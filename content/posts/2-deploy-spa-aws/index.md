@@ -2,7 +2,7 @@
 title: "Deploy a Single Page Application (SPA) to AWS"
 slug: deploy-spa-aws
 date: 2018-07-17T15:45:00+10:30
-draft: true
+draft: false
 categories:
 - All
 - Technology

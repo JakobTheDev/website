@@ -3,7 +3,7 @@ title: "The Eight Phases of a DevOps Pipeline"
 description: Let’s break down the phases of a DevOps pipeline and clarify some common terms.
 slug: eight-phases-devops-pipeline
 date: 2019-07-18T15:45:00+10:30
-draft: true
+draft: false
 categories:
 - All
 - Technology

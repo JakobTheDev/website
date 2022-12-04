@@ -3,7 +3,7 @@ title: "Minifying XSS"
 description: How I bypassed Cross-Site Scripting sanitisation in fewer than 20 characters.
 slug: minifying-xss
 date: 2018-03-18T15:45:00+10:30
-draft: true
+draft: false
 categories:
 - All
 - Technology

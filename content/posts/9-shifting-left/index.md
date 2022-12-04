@@ -3,7 +3,7 @@ title: "Shifting Left: DevSecOps as an Approach to Building Secure Applications"
 description: Why traditional security testing should not be the core of your application security program.
 slug: shifting-left
 date: 2019-07-18T15:45:00+10:30
-draft: true
+draft: false
 categories:
 - All
 - Technology

@@ -2,7 +2,7 @@
 title: "Add Notifications to your AWS CI/CD Pipeline"
 slug: codepipeline-notifications
 date: 2018-08-05T15:45:00+10:30
-draft: true
+draft: false
 categories:
 - All
 - Technology

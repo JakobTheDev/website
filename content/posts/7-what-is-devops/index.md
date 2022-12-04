@@ -3,7 +3,7 @@ title: "What is DevOps?"
 description: The simplest introduction to DevOps and the benefits it can provide to your organisation.
 slug: what-is-devops
 date: 2019-07-18T15:45:00+10:30
-draft: true
+draft: false
 categories:
 - All
 - Technology

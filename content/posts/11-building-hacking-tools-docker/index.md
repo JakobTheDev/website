@@ -2,7 +2,7 @@
 title: "Building hacking tools in Windows using Docker"
 slug: building-hacking-tools-docker
 date: 2020-07-28T15:45:00+10:30
-draft: true
+draft: false
 categories:
 - All
 - Technology

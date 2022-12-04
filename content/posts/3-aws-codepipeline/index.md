@@ -2,7 +2,7 @@
 title: "Automated Build / Deploy with AWS CodePipeline"
 slug: aws-codepipeline
 date: 2018-07-22T15:45:00+10:30
-draft: true
+draft: false
 categories:
 - All
 - Technology
