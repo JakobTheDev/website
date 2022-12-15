@@ -6,8 +6,6 @@ date: 2019-07-18T15:45:00+10:30
 draft: false
 categories:
 - All
-- Technology
-- Software Development
 - Application Security
 tags:
 - DevOps

@@ -5,12 +5,12 @@ date: 2018-08-05T15:45:00+10:30
 draft: false
 categories:
 - All
-- Technology
-- Software Development
+- Application Security
 tags:
 - AWS
-- Cloud
 - CI / CD Pipelines
+- Cloud
+- Software Development
 comments: true
 ShowToc: true
 
