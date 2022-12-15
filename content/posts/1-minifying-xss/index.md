@@ -6,11 +6,10 @@ date: 2018-03-18T15:45:00+10:30
 draft: false
 categories:
 - All
-- Technology
 - Application Security
 tags:
-- Penetration Testing
 - Cross-Site Scripting
+- Penetration Testing
 comments: true
 ShowToc: true
 

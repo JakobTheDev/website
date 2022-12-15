@@ -5,9 +5,7 @@ date: 2020-07-28T15:45:00+10:30
 draft: false
 categories:
 - All
-- Technology
-- Software Development
-- Hacking
+- Application Security
 tags:
 - Docker
 - Kali

@@ -6,12 +6,11 @@ date: 2018-11-21T15:45:00+10:30
 draft: false
 categories:
 - All
-- Technology
-- Hacking
+- Application Security
 tags:
+- Cryptography
 - iPhone
 - Password Cracking
-- Cryptography
 comments: true
 ShowToc: true
 
