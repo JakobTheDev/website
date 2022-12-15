@@ -73,7 +73,7 @@ params:
 
   socialIcons:
     - name: mastodon
-      url: "https://infosec.exchange/@JakobPennington"
+      url: "https://infosec.exchange/@JakobTheDev"
     - name: twitter
       url: "https://twitter.com/@JakobTheDev"
     - name: github
