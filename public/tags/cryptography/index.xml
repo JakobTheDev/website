@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cryptography on JakobTheDev | Jakob Pennington</title>
+    <link>https://www.jakobthe.dev/tags/cryptography/</link>
+    <description>Recent content in Cryptography on JakobTheDev | Jakob Pennington</description>
+    <image>
+      <url>https://www.jakobthe.dev/images/profile.png</url>
+      <link>https://www.jakobthe.dev/images/profile.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Nov 2018 15:45:00 +1030</lastBuildDate><atom:link href="https://www.jakobthe.dev/tags/cryptography/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Breaking into Encrypted iPhone Backups</title>
+      <link>https://www.jakobthe.dev/posts/breaking-into-iphone-backups/</link>
+      <pubDate>Wed, 21 Nov 2018 15:45:00 +1030</pubDate>
+      
+      <guid>https://www.jakobthe.dev/posts/breaking-into-iphone-backups/</guid>
+      <description>The day that being a hacker made me feel like a hero.</description>
+    </item>
+    
+  </channel>
+</rss>

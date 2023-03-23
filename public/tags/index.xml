@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on JakobTheDev | Jakob Pennington</title>
+    <link>https://www.jakobthe.dev/tags/</link>
+    <description>Recent content in Tags on JakobTheDev | Jakob Pennington</description>
+    <image>
+      <url>https://www.jakobthe.dev/images/profile.png</url>
+      <link>https://www.jakobthe.dev/images/profile.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Nov 2022 15:45:00 +1030</lastBuildDate><atom:link href="https://www.jakobthe.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>General</title>
+      <link>https://www.jakobthe.dev/tags/general/</link>
+      <pubDate>Sat, 26 Nov 2022 15:45:00 +1030</pubDate>
+      
+      <guid>https://www.jakobthe.dev/tags/general/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bug Bounty</title>
+      <link>https://www.jakobthe.dev/tags/bug-bounty/</link>
+      <pubDate>Tue, 28 Jul 2020 15:45:00 +1030</pubDate>
+      
+      <guid>https://www.jakobthe.dev/tags/bug-bounty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>https://www.jakobthe.dev/tags/docker/</link>
+      <pubDate>Tue, 28 Jul 2020 15:45:00 +1030</pubDate>
+      
+      <guid>https://www.jakobthe.dev/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kali</title>
+      <link>https://www.jakobthe.dev/tags/kali/</link>
+      <pubDate>Tue, 28 Jul 2020 15:45:00 +1030</pubDate>
+      
+      <guid>https://www.jakobthe.dev/tags/kali/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Penetration Testing</title>
+      <link>https://www.jakobthe.dev/tags/penetration-testing/</link>
+      <pubDate>Tue, 28 Jul 2020 15:45:00 +1030</pubDate>
+      
+      <guid>https://www.jakobthe.dev/tags/penetration-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevOps</title>
+      <link>https://www.jakobthe.dev/tags/devops/</link>
+      <pubDate>Thu, 18 Jul 2019 15:45:00 +1030</pubDate>
+      
+      <guid>https://www.jakobthe.dev/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevSecOps</title>
+      <link>https://www.jakobthe.dev/tags/devsecops/</link>
+      <pubDate>Thu, 18 Jul 2019 15:45:00 +1030</pubDate>
+      
+      <guid>https://www.jakobthe.dev/tags/devsecops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security Testing</title>
+      <link>https://www.jakobthe.dev/tags/security-testing/</link>
+      <pubDate>Thu, 18 Jul 2019 15:45:00 +1030</pubDate>
+      
+      <guid>https://www.jakobthe.dev/tags/security-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-Site Scripting</title>
+      <link>https://www.jakobthe.dev/tags/cross-site-scripting/</link>
+      <pubDate>Fri, 08 Feb 2019 15:45:00 +1030</pubDate>
+      
+      <guid>https://www.jakobthe.dev/tags/cross-site-scripting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://www.jakobthe.dev/tags/markdown/</link>
+      <pubDate>Fri, 08 Feb 2019 15:45:00 +1030</pubDate>
+      
+      <guid>https://www.jakobthe.dev/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cryptography</title>
+      <link>https://www.jakobthe.dev/tags/cryptography/</link>
+      <pubDate>Wed, 21 Nov 2018 15:45:00 +1030</pubDate>
+      
+      <guid>https://www.jakobthe.dev/tags/cryptography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iPhone</title>
+      <link>https://www.jakobthe.dev/tags/iphone/</link>
+      <pubDate>Wed, 21 Nov 2018 15:45:00 +1030</pubDate>
+      
+      <guid>https://www.jakobthe.dev/tags/iphone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Password Cracking</title>
+      <link>https://www.jakobthe.dev/tags/password-cracking/</link>
+      <pubDate>Wed, 21 Nov 2018 15:45:00 +1030</pubDate>
+      
+      <guid>https://www.jakobthe.dev/tags/password-cracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AWS</title>
+      <link>https://www.jakobthe.dev/tags/aws/</link>
+      <pubDate>Sun, 05 Aug 2018 15:45:00 +1030</pubDate>
+      
+      <guid>https://www.jakobthe.dev/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud</title>
+      <link>https://www.jakobthe.dev/tags/cloud/</link>
+      <pubDate>Sun, 05 Aug 2018 15:45:00 +1030</pubDate>
+      
+      <guid>https://www.jakobthe.dev/tags/cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Development</title>
+      <link>https://www.jakobthe.dev/tags/software-development/</link>
+      <pubDate>Sun, 05 Aug 2018 15:45:00 +1030</pubDate>
+      
+      <guid>https://www.jakobthe.dev/tags/software-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CI / CD Pipelines</title>
+      <link>https://www.jakobthe.dev/tags/ci-/-cd-pipelines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jakobthe.dev/tags/ci-/-cd-pipelines/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

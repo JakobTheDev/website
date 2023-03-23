@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Security Testing on JakobTheDev | Jakob Pennington</title>
+    <link>https://www.jakobthe.dev/tags/security-testing/</link>
+    <description>Recent content in Security Testing on JakobTheDev | Jakob Pennington</description>
+    <image>
+      <url>https://www.jakobthe.dev/images/profile.png</url>
+      <link>https://www.jakobthe.dev/images/profile.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Jul 2019 15:45:00 +1030</lastBuildDate><atom:link href="https://www.jakobthe.dev/tags/security-testing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shifting Left: DevSecOps as an Approach to Building Secure Applications</title>
+      <link>https://www.jakobthe.dev/posts/shifting-left/</link>
+      <pubDate>Thu, 18 Jul 2019 15:45:00 +1030</pubDate>
+      
+      <guid>https://www.jakobthe.dev/posts/shifting-left/</guid>
+      <description>Why traditional security testing should not be the core of your application security program.</description>
+    </item>
+    
+  </channel>
+</rss>

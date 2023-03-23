@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cloud on JakobTheDev | Jakob Pennington</title>
+    <link>https://www.jakobthe.dev/tags/cloud/</link>
+    <description>Recent content in Cloud on JakobTheDev | Jakob Pennington</description>
+    <image>
+      <url>https://www.jakobthe.dev/images/profile.png</url>
+      <link>https://www.jakobthe.dev/images/profile.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Aug 2018 15:45:00 +1030</lastBuildDate><atom:link href="https://www.jakobthe.dev/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Add Notifications to your AWS CI/CD Pipeline</title>
+      <link>https://www.jakobthe.dev/posts/codepipeline-notifications/</link>
+      <pubDate>Sun, 05 Aug 2018 15:45:00 +1030</pubDate>
+      
+      <guid>https://www.jakobthe.dev/posts/codepipeline-notifications/</guid>
+      <description>This post is Part 3 in a 🤷-Part series on CI/CD in AWS. Go check out my other posts to see how we got here:
+Part 1: Deploy a Single-Page Application (SPA) to AWS
+Part 2: Automated Build / Deploy with AWS CodePipeline
+In the last post, we set up a simple CI/CD pipeline that deploys our codebase into production each time new code is merged into the production codebase. This is great, but once we kick off a build we have two options:</description>
+    </item>
+    
+    <item>
+      <title>Automated Build / Deploy with AWS CodePipeline</title>
+      <link>https://www.jakobthe.dev/posts/aws-codepipeline/</link>
+      <pubDate>Sun, 22 Jul 2018 15:45:00 +1030</pubDate>
+      
+      <guid>https://www.jakobthe.dev/posts/aws-codepipeline/</guid>
+      <description>In my last post, I showed how you can deploy a Single Page Application to AWS using AWS’ S3, CloudFront and Route 53. This post picks up where the last one left off, so if you haven’t read it, go check it out!
+This time, we’ll be improving our DevOps by building a basic CI/CD pipeline. Since we’re already using AWS to host our site, it makes sense to keep using their services since they do integrate well together (That’s how they get you!</description>
+    </item>
+    
+    <item>
+      <title>Deploy a Single Page Application (SPA) to AWS</title>
+      <link>https://www.jakobthe.dev/posts/deploy-spa-aws/</link>
+      <pubDate>Tue, 17 Jul 2018 15:45:00 +1030</pubDate>
+      
+      <guid>https://www.jakobthe.dev/posts/deploy-spa-aws/</guid>
+      <description>Recently, I made a simple personal website — a hub for my online presences and a place to share my personal projects. I developed the site using the Angular CLI, and when it came time to host the site, I chose AWS since my domain was already set up in Route 53. Overall, the process of building the application and hosting it on AWS was a fairly simple one (you could probably set the whole thing up in about an hour), but there were a couple of gotchyas that prompted me to write down the process.</description>
+    </item>
+    
+  </channel>
+</rss>
