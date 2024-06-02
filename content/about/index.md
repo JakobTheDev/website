@@ -31,7 +31,8 @@ My experience in both building and hacking software gives me a unique perspectiv
 
 ## Work
 
-I am a Principal Application Security Consultant at [Taptu](https://www.taptu.com.au). My work (and by extension, much of the content in this blog) focusses on:
+I am the Application Security Lead at [Taptu](https://www.taptu.com.au). My work (and by extension, much of the content in this blog) focusses on:
+
 * **Penetration testing** specialising in web, mobile, desktop and API security.
 * **Providing application security expertise** to software development teams.
 * **Implementing secure development practices** throughout the SDLC.
@@ -43,6 +44,7 @@ I am a Principal Application Security Consultant at [Taptu](https://www.taptu.co
 ## On the side
 
 Professionally, but outside of my role at Taptu, I am also:
+
 * Author and Course Coordinator for the Secure Software Development course at the [University of South Australia](https://twitter.com/universitysa).
 * Co-organiser of the [SecTalks Adelaide](https://twitter.com/sectalks_ADL) meetup.
 * Co-organiser of the [HeapsGoodDev](https://twitter.com/heapsgooddev) meetup.
@@ -50,6 +52,7 @@ Professionally, but outside of my role at Taptu, I am also:
 ## Other interests
 
 My love of learning spans well beyond application security. I may write about my other hobbies and interests from time to time, including:
+
 * Running, cycling, health and well-being.
 * Productivity and self-improvement.
 * Video games, books and other media.

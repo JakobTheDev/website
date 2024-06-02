@@ -72,14 +72,14 @@ params:
         url: posts
 
   socialIcons:
-    - name: mastodon
-      url: "https://infosec.exchange/@JakobPennington"
-    - name: twitter
-      url: "https://twitter.com/@JakobTheDev"
-    - name: github
-      url: "https://github.com/JakobTheDev"
+    # - name: mastodon
+    #   url: "https://infosec.exchange/@JakobPennington"
+    # - name: twitter
+    #   url: "https://twitter.com/@JakobTheDev"
     - name: linkedin
       url: "https://www.linkedin.com/in/jakobpennington/"
+    - name: github
+      url: "https://github.com/JakobTheDev"
 
   analytics:
     google:
@@ -93,7 +93,7 @@ params:
     linkFullImages: true
 
   editPost:
-    URL: "https://github.com/JakobTheDev/website/content"
+    URL: "https://github.com/JakobTheDev/website/blob/develop/content"
     Text: "Suggest Changes"
     appendFilePath: true
 
