@@ -1,8 +1,8 @@
 ---
 title: "BBB #1 - Back Hunting"
 slug: bbb-1-back-hunting
-date: 2024-05-30 19:41:45.9870544 +0930 ACST
-draft: true
+date: 2024-06-02
+draft: false
 categories:
 - All
 - Application Security
