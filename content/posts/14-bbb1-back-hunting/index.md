@@ -65,7 +65,7 @@ Here's how I plan to tackle the coming week:
 3. **Set up my hacking environment**  
    Similarly, I know I'm going to need Burp Suite and all the extensions, Firefox and all the add-ons, VS Code and Docker for building automation. I need to make sure my laptop is set up with the tooling and licenses needed for hunting.
 4. **Go over old notes**  
-   Last time I was bug bounty bunting, I had begun to document a methodology and build out automation to help with my hunting. There's a good chance I will want to rebuild everything bigger and better, but I'll have a good leg-up if I start where I left off rather than from scratch.
+   Last time I was bug bounty hunting, I had begun to document a methodology and build out automation to help with my hunting. There's a good chance I will want to rebuild everything bigger and better, but I'll have a good leg-up if I start where I left off rather than from scratch.
 5. **Begin researching latest tooling and techniques**  
    While the foundations remain the same, the tools and techniques used by hunters in 2024 may have evolved from those used in 2020. How are people approaching subdomain enumeration? Is everything ported over to Rust now? Who are the people to follow online? I need to get back in the loop.
 6. **Begin planning automation**  
