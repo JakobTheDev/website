@@ -131,7 +131,7 @@ Each week, I take a look back at the week that was, and plan ahead for the comin
 - [ ] **Go over old notes**  
     I've had a change of heart and decided to do a green-fields reboot of my bug bounty tooling and methodology. I still have all my old notes to refer back to when needed, but for the most part I'm happy start from scratch, unburdened by my previous choices of technology and approach. 
 - [x] **Begin researching latest tooling and techniques**  
-    I love systems, so I have set up a system for learning about bug bounty hunting and application security. I may have more to say on this topic in future, but for now all I will say is I have a 
+    I love systems, so I have set up a system for learning about bug bounty hunting and application security. I may have more to say on this topic in future, but for now all I will say is I have a good workflow for continuous learning.
 - [x] **Begin planning automation**  
     I may have been a little conservative on this part of the plan. More than just planning automation, I've started to build partner `daneel`. 
 
