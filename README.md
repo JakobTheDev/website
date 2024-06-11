@@ -2,6 +2,12 @@
 
 Helpful commands:
 ```bash
+# Clone the repo
+git clone --recursive git@github.com:JakobTheDev/website.git
+
+# Pull sudmodule (if not pulled during intial commit)
+git submodule update --init --recursive
+
 # Serve the blog
 hugo server
 
