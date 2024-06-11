@@ -3,7 +3,7 @@ title: "BBB #2 - Introducing Daneel"
 slug: bbb-2-hello-daneel
 summary: "This week, I began building my own bug bounty automation tool. This post introduces daneel and talks about how I plan to use daneel to hunt for bugs."
 date: 2024-06-11
-draft: true
+draft: false
 categories:
 - All
 - Application Security
@@ -111,7 +111,8 @@ Ultimately, I would love to get to a position where `daneel`:
 Building `daneel` has been a lot of fun so far, and I'm looking forward to building it out over time and seeing where it goes.
 
 ---
-## Weekly Stand-Up
+
+## Weekly stand-up
 
 Each week, I take a look back at the week that was, and plan ahead for the coming week.
 ### What I planned to achieve this week
@@ -152,4 +153,4 @@ Here's how I plan to tackle the coming week:
 
 I've got a lot to do, better get back to it!
 
-- JakobTheDev
+\- Jakob
